@@ -1,0 +1,15 @@
+<?php
+ n = 5;
+ for(i=1;i<=n;i++)
+ {
+  for(j=n-1;j>=i;j--)
+  {
+    printf("");
+  }
+  for(k=1;K<=i;K++)
+  {
+    printf("*");
+  }
+  printf("<br>");
+
+?>
